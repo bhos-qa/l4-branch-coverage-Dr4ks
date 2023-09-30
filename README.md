@@ -30,3 +30,8 @@ As a result we did section of branch coverage and code coverage.
 Now, it's time to code our build.gradle file like [this](build.gradle).
 
 Finally, we need to make Github Actions part of our task. For this, we need to configure our workflow file like [this](.github/workflows/workflow.yml).
+
+Here's our SonarCloud result.
+![img.png](images/img7.png)
+
+Now, it's time to create PR from 'feature/lab4' to 'develop' branch.
