@@ -1,5 +1,8 @@
 Hello, now I provide Task 4 with you.
 
+Badge of project=>
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bhos-qa_l4-branch-coverage-Dr4ks&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bhos-qa_l4-branch-coverage-Dr4ks)
+
 That's the part, we write vulnerable Java code and it should be detected by SonarCloud.
 
 
